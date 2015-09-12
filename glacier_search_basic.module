@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Search: Basic feature.
+ */
+
+include_once 'glacier_search_basic.features.inc';
