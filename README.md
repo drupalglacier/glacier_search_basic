@@ -1,8 +1,8 @@
-# Article
-A basic „Article“ content type plus view with „all“ contents list and „admin“ display. You can use this feature for a basic blog.
+# Search: Basic
+Basic search functionality based on the Search API module.
 
 ## About
-Github: https://github.com/maoberlehnerdrupal/glacier_article
+Github: https://github.com/maoberlehnerdrupal/glacier_search_basic
 
 ### Author
 Markus Oberlehner  
