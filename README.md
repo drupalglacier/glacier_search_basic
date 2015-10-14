@@ -2,7 +2,7 @@
 Basic search functionality based on the Search API module.
 
 ## About
-Github: https://github.com/maoberlehnerdrupal/glacier_search_basic
+Github: https://github.com/drupalglacier/glacier_search_basic
 
 ### Author
 Markus Oberlehner  
