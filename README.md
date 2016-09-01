@@ -1,4 +1,4 @@
-# Search: Basic
+# Search: Basic (DEPRECATED!)
 Basic search functionality based on the Search API module.
 
 ## About
